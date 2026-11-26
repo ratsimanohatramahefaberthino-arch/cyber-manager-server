@@ -17,8 +17,9 @@
 /public/hot
 /public/build
 
-# Runtime embarqué (Caddy, PHP portable, MySQL portable…)
+# Runtime embarqué (PHP portable, Caddy, MySQL portable, PEAR, PHPUnit...)
 /runtime/
+/build/
 /dist/
 
 # Binaires Windows / .NET
@@ -37,7 +38,6 @@
 *.db
 *.dump
 *.sql
-!/database/migrations/*.php
 
 # Logs et divers
 *.log
