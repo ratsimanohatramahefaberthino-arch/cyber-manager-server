@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CyberManager.Server.Common/CyberManager.Server.Common.csproj" />
+  <Project Path="CyberManager.Server.Control/CyberManager.Server.Control.csproj" />
+  <Project Path="CyberManager.Server.Host/CyberManager.Server.Host.csproj" />
+  <Project Path="CyberManager.Server.Setup.Tests/CyberManager.Server.Setup.Tests.csproj" />
+  <Project Path="CyberManager.Server.Setup/CyberManager.Server.Setup.csproj" />
+</Solution>

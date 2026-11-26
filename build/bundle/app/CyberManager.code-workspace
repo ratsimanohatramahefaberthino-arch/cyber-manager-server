@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../cyber-manager-agent"
+		},
+		{
+			"path": "../cyber-manager-commun"
+		},
+		{
+			"path": "../cyber-manager-gardien"
+		},
+		{
+			"path": "../cyber-manager-installateur"
+		},
+		{
+			"path": "../cyber-manager-desinstalleur"
+		},
+		{
+			"path": "../cyber-manager-server"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,7 @@
+E:\xampp\htdocs\cyber-manager-server\build\bundle\control\CyberManagerServer.exe
+E:\xampp\htdocs\cyber-manager-server\build\bundle\control\CyberManagerServer.dll
+E:\xampp\htdocs\cyber-manager-server\build\bundle\control\CyberManagerServer.deps.json
+E:\xampp\htdocs\cyber-manager-server\build\bundle\control\CyberManagerServer.runtimeconfig.json
+E:\xampp\htdocs\cyber-manager-server\build\bundle\control\System.Diagnostics.EventLog.dll
+E:\xampp\htdocs\cyber-manager-server\build\bundle\control\System.ServiceProcess.ServiceController.dll
+E:\xampp\htdocs\cyber-manager-server\build\bundle\control\CyberManager.Server.Common.dll

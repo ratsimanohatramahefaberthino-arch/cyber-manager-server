@@ -1,0 +1,17 @@
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\bin\Release\net8.0-windows\win-x64\CyberManagerServer.exe
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\bin\Release\net8.0-windows\win-x64\CyberManagerServer.deps.json
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\bin\Release\net8.0-windows\win-x64\CyberManagerServer.runtimeconfig.json
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\bin\Release\net8.0-windows\win-x64\CyberManagerServer.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\bin\Release\net8.0-windows\win-x64\System.Diagnostics.EventLog.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\bin\Release\net8.0-windows\win-x64\System.ServiceProcess.ServiceController.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\bin\Release\net8.0-windows\win-x64\CyberManager.Server.Common.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\CyberManager.Server.Control.csproj.AssemblyReference.cache
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\CyberManager.Server.Control.GeneratedMSBuildEditorConfig.editorconfig
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\CyberManager.Server.Control.AssemblyInfoInputs.cache
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\CyberManager.Server.Control.AssemblyInfo.cs
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\CyberManager.Server.Control.csproj.CoreCompileInputs.cache
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\CyberMan.766D4D31.Up2Date
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\CyberManagerServer.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\refint\CyberManagerServer.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\CyberManager.Server.Control.genruntimeconfig.cache
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Control\obj\Release\net8.0-windows\win-x64\ref\CyberManagerServer.dll

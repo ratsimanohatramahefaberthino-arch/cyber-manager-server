@@ -1,0 +1,31 @@
+========================================================================
+CYBER MANAGER — COMMANDES OFFICIELLES DE COMPILATION (SERVEUR & AGENT)
+========================================================================
+Localisation de travail : E:\xampp\htdocs\cyber-manager-server
+
+1. COMPILATION COMPLETE QUOTIDIENNE (MODE TEST RAPIDE ~1 à 2 MINUTES) :
+------------------------------------------------------------------------
+# A. Compiler l'écran client (agent)
+dotnet publish "..\cyber-manager-agent\cyber-manager-agent.csproj" -c Release -r win-x64 --self-contained false -o "..\cyber-manager-commun\dist\ecran" --nologo -v quiet
+
+# B. Créer l'archive zip de distribution
+Compress-Archive -Path "..\cyber-manager-commun\dist\ecran\*" -DestinationPath "..\cyber-manager-commun\dist\ecran-2.4.1.zip" -Force
+Copy-Item "..\cyber-manager-commun\dist\ecran-2.4.1.zip" "..\cyber-manager\storage\app\private\agent-packages\ecran-2.4.1.zip" -Force
+
+# C. Assembler le bundle et compiler l'installateur (Mode Rapide automatique)
+powershell -ExecutionPolicy Bypass -File installer\assembler-bundle.ps1
+powershell -ExecutionPolicy Bypass -File installer\compiler-installateur.ps1
+
+
+2. COMPILATION FINALE POUR LIVRAISON / PRODUCTION (COMPRESSION MAX) :
+------------------------------------------------------------------------
+# Même commande mais avec le commutateur -Prod (prend plus de temps, taille minimale) :
+powershell -ExecutionPolicy Bypass -File installer\compiler-installateur.ps1 -Prod
+
+
+RÈGLES ET FONCTIONNEMENT :
+- Les fichiers générés sont rigoureusement identiques et 100 % compatibles.
+- La règle Pare-feu Windows est configurée sur RemoteAddresses = "*" (tous réseaux/cartes).
+- Le délai de grâce anti-panique de déconnexion réseau est verrouillé à 180 secondes (3 minutes).
+- Zéro terminal requis pour le client final : tout est autonome.
+========================================================================

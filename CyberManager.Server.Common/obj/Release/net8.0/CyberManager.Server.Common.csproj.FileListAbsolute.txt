@@ -1,0 +1,9 @@
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\bin\Release\net8.0\CyberManager.Server.Common.deps.json
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\bin\Release\net8.0\CyberManager.Server.Common.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\obj\Release\net8.0\CyberManager.Server.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\obj\Release\net8.0\CyberManager.Server.Common.AssemblyInfoInputs.cache
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\obj\Release\net8.0\CyberManager.Server.Common.AssemblyInfo.cs
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\obj\Release\net8.0\CyberManager.Server.Common.csproj.CoreCompileInputs.cache
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\obj\Release\net8.0\CyberManager.Server.Common.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\obj\Release\net8.0\refint\CyberManager.Server.Common.dll
+E:\xampp\htdocs\cyber-manager-server\CyberManager.Server.Common\obj\Release\net8.0\ref\CyberManager.Server.Common.dll

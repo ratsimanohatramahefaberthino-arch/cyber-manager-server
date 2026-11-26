@@ -1,0 +1,50 @@
+# Laravel / PHP
+/vendor/
+/node_modules/
+/.env
+/.env.*
+!/ .env.example
+/storage/*.key
+/storage/logs/*
+!/storage/logs/.gitignore
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/framework/testing/*
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
+/public/storage
+/public/hot
+/public/build
+
+# Runtime embarqué (Caddy, PHP portable, MySQL portable…)
+/runtime/
+/dist/
+
+# Binaires Windows / .NET
+*.exe
+*.dll
+*.pdb
+*.lib
+*.so
+*.dylib
+/bin/
+/obj/
+
+# Base de données locale / dumps
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.sql
+!/database/migrations/*.php
+
+# Logs et divers
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~

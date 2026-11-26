@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CyberManager.Server.Common</RootNamespace>
+    <AssemblyName>CyberManager.Server.Common</AssemblyName>
+  </PropertyGroup>
+
+</Project>
